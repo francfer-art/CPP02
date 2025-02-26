@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Temporary build files
+.DB_Store
+.vscode
